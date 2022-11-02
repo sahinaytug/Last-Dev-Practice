@@ -17,4 +17,4 @@ var y=myComputer["color"];
 // for testing i will print y so i can see the value
 console.log("this color:"+y);
 console.log("this is the cpu:"+myComputer["cpu"]);
-//updated
+//updated the code
